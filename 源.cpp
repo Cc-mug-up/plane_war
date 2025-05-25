@@ -296,7 +296,7 @@ bool AddEnemy(vector<Enemy*>& es,IMAGE& enemyimg,IMAGE* boom) {
 	es.push_back(e);
 	return true;
 }
-
+//
 //ÓÎÏ·Ö÷º¯Êý
 bool play() {
 	//ÔÝÍ£×´Ì¬
